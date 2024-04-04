@@ -3,3 +3,4 @@
 # DisplayRefreshRateAutoChange
 # DisplayRefreshRateAutoChange
 # DisplayRefreshRateAutoChange
+# DisplayRefreshRateAutoChange
